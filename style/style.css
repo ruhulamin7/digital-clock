@@ -27,3 +27,7 @@ body {
   font-size: 60px;
   color: rgb(168, 93, 0);
 }
+.test {
+  text-transform: uppercase;
+  color: red;
+}
